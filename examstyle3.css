@@ -30,7 +30,7 @@
     background-color:yellow;
     grid-area:article3;
 }
-footer {
+.footer {
     background-color:red;
     grid-area:footer;
     }
