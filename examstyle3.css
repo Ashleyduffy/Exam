@@ -50,7 +50,7 @@ footer {
     }
 
 /*----------------------------------Tablet layout-----------------------------------*/
-.container1 {
+.container2 {
     display: grid;
     grid-template-columns:30% auto;
     grid-template-areas:
@@ -65,7 +65,7 @@ footer {
 
 
 /*----------------------------------Desktop layout-----------------------------------*/
-.container1 {
+.container3 {
     display: grid;
     grid-template-columns:25% auto 35%;
     grid-template-areas:
