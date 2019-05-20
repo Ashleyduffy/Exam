@@ -54,7 +54,7 @@ main {
     display: grid;
     grid-template-columns:30% auto;
     grid-template-areas:
-        "header header:
+        "header header"
         "nav article1"
         "nav article2"
         "nav article3"
