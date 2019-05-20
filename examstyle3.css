@@ -2,17 +2,17 @@
     padding:20px;
 }
 
-header {
+.header {
     background-color:purple;
     grid-area:header;
     }
 
-nav {
+.nav {
     background-color:green;
     grid-area:nav;
     }
 
-main {
+.main {
     background-color:blue;
     grid-area:main;
     }
@@ -30,7 +30,7 @@ main {
     background-color:yellow;
     grid-area:article3;
 }
-.footer {
+footer {
     background-color:red;
     grid-area:footer;
     }
