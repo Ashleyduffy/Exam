@@ -17,16 +17,16 @@
     grid-area:main;
     }
     
-.article1 {
+article1 {
     background-color:aqua;
     grid-area:article1;
     }
 
-.article2 {
+article2 {
      background-color:maroon;
      grid-area:article2;
 }
-.article3 {
+article3 {
     background-color:yellow;
     grid-area:article3;
 }
