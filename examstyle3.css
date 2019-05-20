@@ -50,8 +50,29 @@
     }
 
 /*----------------------------------Tablet layout-----------------------------------*/
-
+.container1 {
+    display: grid;
+    grid-template-columns:30% auto;
+    grid-template-areas:
+        "header header:
+        "nav article1"
+        "nav article2"
+        "nav article3"
+        "main main"
+        "footer footer";
+}
 
 
 
 /*----------------------------------Desktop layout-----------------------------------*/
+.container1 {
+    display: grid;
+    grid-template-columns:25% auto 35%;
+    grid-template-areas:
+        "header header header"
+        "nav main article1"
+        "nav main article2"
+        "nav main article3"
+        "footer footer footer";
+}
+        
