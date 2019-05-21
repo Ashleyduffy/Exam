@@ -36,7 +36,7 @@ footer {
     }
 
 /*------------------------------Mobile layout-------------------------------*/
-.container2 { /*for index.html*/
+.container1 { /*for index.html*/
   display: grid;
   grid-template-columns:100%; /*only 1 column needed on mobile*/
   grid-template-areas:
@@ -50,7 +50,7 @@ footer {
     }
 
 /*----------------------------------Tablet layout-----------------------------------*/
-.container1 {
+.container2 {
     display: grid;
     grid-template-columns:30% auto;
     grid-template-areas:
